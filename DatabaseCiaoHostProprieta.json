@@ -1,0 +1,76 @@
+{
+  "properties": {
+    "d1be5542-ab48-40b4-90a2-d72f2524783a": {
+      "name": "Casetta Viole",
+      "type": "Appartamento",
+      "location": "Roma",
+      "address": "via giordano 4",
+      "bedrooms": 1,
+      "bathrooms": 1.0,
+      "max_guests": 2,
+      "price": 50.0,
+      "cleaning_fee": 30.0,
+      "services": [],
+      "check_in_instructions": "dadad",
+      "wifi_details": "adada",
+      "status": "Attivo",
+      "phone": "",
+      "created_at": "2025-05-21T14:55:51.978443",
+      "updated_at": "2025-06-08T10:30:41.346599"
+    },
+    "fe039ac8-3159-4a35-b353-f3c898f15fd9": {
+      "name": "Roof Garden",
+      "type": "Camera Privata",
+      "location": "Firenze",
+      "address": "Via dei paltani 55",
+      "bedrooms": 2,
+      "bathrooms": 3.0,
+      "max_guests": 3,
+      "price": 650.0,
+      "cleaning_fee": 60.0,
+      "services": [
+        "WiFi",
+        "Aria Condizionata",
+        "Riscaldamento",
+        "Cucina",
+        "Lavatrice",
+        "TV",
+        "Parcheggio",
+        "Piscina",
+        "Palestra",
+        "Terrazza"
+      ],
+      "check_in_instructions": "",
+      "wifi_details": "Password: Garden",
+      "status": "Attivo",
+      "phone": "525426363",
+      "created_at": "2025-05-27T15:46:17.063920",
+      "updated_at": "2025-05-27T15:46:17.063929"
+    },
+    "12e557b7-480a-4545-ae68-c8692d16ca28": {
+      "name": "Villa Del Sole",
+      "type": "B&B",
+      "location": "Roma",
+      "address": "",
+      "bedrooms": 1,
+      "bathrooms": 1.0,
+      "max_guests": 2,
+      "price": 140.0,
+      "cleaning_fee": 30.0,
+      "services": [
+        "WiFi",
+        "Piscina",
+        "palestra"
+      ],
+      "check_in_instructions": "",
+      "wifi_details": "",
+      "status": "Attivo",
+      "phone": "+390123456",
+      "created_at": "2025-05-27T15:48:56.693980",
+      "updated_at": "2025-05-27T15:48:56.693985"
+    }
+  },
+  "users": {
+    "ciaohost@gmail.com": "talker90@",
+  }
+}

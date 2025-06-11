@@ -1,0 +1,37 @@
+{
+  "bookings": {
+    "12c77713-ad77-430f-a160-0c3dad93ba56": {
+      "property_id": "d1be5542-ab48-40b4-90a2-d72f2524783a",
+      "property_name": "casetta viole",
+      "check_in_date": "20/09/2025",
+      "check_out_date": "25/09/2025",
+      "guests": 2,
+      "check_in_time": "12:00",
+      "special_requests": "nessuna",
+      "status": "Confermata",
+      "created_at": "2025-05-27T15:15:01.636150"
+    },
+    "a9a808f1-ab16-449e-a811-fab78f644318": {
+      "property_id": "2",
+      "property_name": "Villa Bella",
+      "check_in_date": "01/01/2020",
+      "check_out_date": "05/01/2020",
+      "guests": 4,
+      "check_in_time": "10:00",
+      "special_requests": "nessuna",
+      "status": "Cancellata",
+      "created_at": "2025-05-27T15:18:06.159327"
+    },
+    "278f299d-e4f6-41df-a83e-577ed9229e9c": {
+      "property_id": "d1be5542-ab48-40b4-90a2-d72f2524783a",
+      "property_name": "casetta viole",
+      "check_in_date": "03/03/2023",
+      "check_out_date": "06/03/2023",
+      "guests": 3,
+      "check_in_time": "11:00",
+      "special_requests": "nessuna",
+      "status": "Confermata",
+      "created_at": "2025-05-27T15:18:56.992439"
+    }
+  }
+}
